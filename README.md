@@ -5,8 +5,8 @@
 	<body style="background-color:;">
 	<center>
 	<h3 style="font-family:cambria;"> 
-		</br></br></br></br></br></br>Saving Account:</br> IFIFI Bank 000101010 </br></br>
-		Current Bank Balance:</br> 10000
+		Saving Account:       IFIFI Bank 000101010 
+		Current Bank Balance:      10000
 		
 		</h3>
 	</center>
